@@ -1,16 +1,9 @@
-#lets write a Simple script 
-#to get the 20 words and their frequency percentage 
-#with highest frequency in an English Wikipedia article. 
-#applications are recommender systems, chatbots and NLP, sentiment analysis,
-#data visualization,
-#market research
+
 
 #Beautiful Soup is a Python library 
 #for pulling data out of HTML and XML files.
 from bs4 import BeautifulSoup
-#Requests is one of the most downloaded 
-#Python packages of all time, 
-#pulling in over 7,000,000 downloads every month.
+
 #HTTP library for pulling pushing and authenticating
 import requests
 #lets you do Regular expression operations
