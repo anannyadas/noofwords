@@ -2,7 +2,7 @@
 # @author: Anannya Das
 
 
-# words, frequency of words from wikipaedia articles
+# words, frequency of words from wikipedia articles
 
 
 
